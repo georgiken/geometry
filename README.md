@@ -1,1 +1,1 @@
-# ex
+# 10th class python project
